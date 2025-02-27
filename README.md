@@ -9,9 +9,6 @@ This tutorial outlines the steps to observe RDP traffic.<br />
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- osTicket system
-- Internet Information Services (IIS)
 
 <h2>Operating Systems Used </h2>
 
