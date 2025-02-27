@@ -2,8 +2,8 @@
 <img src="https://github.com/user-attachments/assets/0c9a5058-f465-477c-be11-3de15009f17b" height="350" width="350"
 </p>
 
-<h1>Observe RDP traffic</h1>
-This tutorial outlines the steps to observe RDP traffic.<br />
+<h1>Create a new virtual machine for osTicket environment</h1>
+This tutorial outlines the steps to install osTicket to a VM.<br />
 
 
 <h2>Environments and Technologies Used</h2>
