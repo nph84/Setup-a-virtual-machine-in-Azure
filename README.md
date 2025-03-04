@@ -3,7 +3,7 @@
 </p>
 
 <h1>Create a new virtual machine for osTicket environment</h1>
-This tutorial outlines the steps to install osTicket to a VM.<br />
+This tutorial outlines the steps to install osTicket to a virtual machine.<br />
 
 
 <h2>Environments and Technologies Used</h2>
