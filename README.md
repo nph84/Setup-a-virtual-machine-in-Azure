@@ -18,8 +18,7 @@ This tutorial outlines the steps to install osTicket to a virtual machine.<br />
 <h2>Installation Steps</h2>
 
 <p>
+Create a virtual machine in Microsoft Azure <br /> <br />
 <img src="https://github.com/user-attachments/assets/7a27f4ad-57d7-4b58-b083-95f90caed6bb" height="200%" width="200%"
-  </p>
-
-<p>Create a virtual machine in Microsoft Azure</p>
+</p>
 <br />
